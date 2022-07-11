@@ -1,3 +1,3 @@
-[![AlwaysON logo](src/AlwaysON.png)]
+![AlwaysON](src/AlwaysON.png "AlwaysON")
 
 # AlwaysON
