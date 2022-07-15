@@ -1,4 +1,4 @@
-![AlwaysON](files/GITHUB1.png "AlwaysON")
+![AlwaysON](files/ALWAYSON.svg "AlwaysON")
 
 # AlwaysON
 a MAX/MSP patch listener from the sound card input sources which start recording automatically when ever a db threshold is being reached.
