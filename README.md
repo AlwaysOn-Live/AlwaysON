@@ -9,7 +9,7 @@ a MAX/MSP listener patch from the sound card input sources which start recording
 #  Table of Contents
 
 - [Download](#Download)
-- [How to use](#How to use)
+- [How to use](#How-to-use)
 - [Features](#Features)
 
 # Download
