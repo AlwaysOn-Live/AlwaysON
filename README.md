@@ -1,7 +1,7 @@
 ![AlwaysON](files/ALWAYSON_small.svg "AlwaysON")
 
 # AlwaysON
-a MAX/MSP patch listener from the sound card input sources which start recording automatically when ever a db threshold is being reached.
+a MAX/MSP listener patch from the sound card input sources which start recording automatically whenever a db threshold is being reached
 
 ![AlwaysON screenshot](files/screenshot.png "AlwaysON screenshot")
 
@@ -9,6 +9,7 @@ a MAX/MSP patch listener from the sound card input sources which start recording
 #  Table of Contents
 
 - [Download](#Download)
+- [How to use](#How to use)
 - [Features](#Features)
 
 # Download
@@ -17,7 +18,7 @@ a MAX/MSP patch listener from the sound card input sources which start recording
 ## Mac OS Download
 
 The latest stable release is available via the url below:
-https://www.dropbox.com/s/m028zud6bye5sy8/AlwaysON.zip?dl=0
+[https://www.dropbox.com/s/m028zud6bye5sy8/AlwaysON.zip?dl=0](https://www.dropbox.com/s/viy25928elhggw5/nadavraj_autorec_03.zip?dl=0)
 
 # How to use
 ![AlwaysON HowToUse](files/HowToUse.png "AlwaysON HowToUse")
